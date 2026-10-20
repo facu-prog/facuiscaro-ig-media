@@ -1,0 +1,15 @@
+[
+  {"id": "s-20261020-1-lanzamiento", "type": "story", "date": "2026-10-20T07:30:00-03:00", "files": ["s-20261020-1-lanzamiento.jpg"], "status": "approved"},
+  {"id": "s-20261020-2-pregunta", "type": "story", "date": "2026-10-20T07:30:00-03:00", "files": ["s-20261020-2-pregunta.jpg"], "status": "approved"},
+  {"id": "s-20261021-1-tip", "type": "story", "date": "2026-10-21T10:00:00-03:00", "files": ["s-20261021-1-tip.jpg"], "status": "approved"},
+  {"id": "s-20261022-1-post", "type": "story", "date": "2026-10-22T10:00:00-03:00", "files": ["s-20261022-1-post.jpg"], "status": "approved"},
+  {"id": "s-20261023-1-diagnostico", "type": "story", "date": "2026-10-23T10:00:00-03:00", "files": ["s-20261023-1-diagnostico.jpg"], "status": "approved"},
+  {"id": "10-costo-no-responder", "type": "post", "date": "2026-10-27T19:00:00-03:00",
+   "files": ["10-costo-no-responder_01.jpg", "10-costo-no-responder_02.jpg", "10-costo-no-responder_03.jpg", "10-costo-no-responder_04.jpg", "10-costo-no-responder_05.jpg"],
+   "caption": "¿Cuánto te cuesta no responder a tiempo? 💸\n\nHice la cuenta con un ejemplo simple: 20 consultas por día, 6 que esperan horas, 1 de cada 5 que se hubiera convertido en venta.\nResultado: más de una venta por día que se enfría sola.\n\nLa solución no es vivir pegado al celular. Es tener un sistema que responda por vos, con tu tono, y te pase las ventas listas.\n\nGuardalo, hacé la cuenta con tus números y contame cuánto te dio 👇\n\n#atencionalcliente #ventas #pymesargentinas #IA #automatizacion",
+   "status": "approved"},
+  {"id": "11-ia-no-es-chatgpt", "type": "post", "date": "2026-10-29T19:00:00-03:00",
+   "files": ["11-ia-no-es-chatgpt_01.jpg", "11-ia-no-es-chatgpt_02.jpg", "11-ia-no-es-chatgpt_03.jpg", "11-ia-no-es-chatgpt_04.jpg", "11-ia-no-es-chatgpt_05.jpg", "11-ia-no-es-chatgpt_06.jpg"],
+   "caption": "Cuando digo \"IA para tu negocio\" casi todos piensan en ChatGPT 🤖\n\nPero lo que más resultados da en una pyme es menos glamoroso:\n1. Agentes que atienden y venden 24/7\n2. Automatizaciones que hacen solas las tareas repetitivas\n3. Análisis de datos para decidir sin planillas\n4. Marketing y contenido con tu voz, en menos tiempo\n\n¿Por cuál empezar? Depende de dónde está tu cuello de botella. Para eso está el diagnóstico (link en la bio).\n\n#inteligenciaartificial #chatgpt #pymes #automatizacion #IAparanegocios",
+   "status": "approved"}
+]
