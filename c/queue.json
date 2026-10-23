@@ -52,7 +52,10 @@
   "files": [
    "s-20261023-1-diagnostico.jpg"
   ],
-  "status": "approved"
+  "status": "published",
+  "media_id": "18102263273370512",
+  "permalink": "https://www.instagram.com/stories/facuiscaro.pro/4014292543294517038",
+  "published_at": "2026-10-23T10:09:47-03:00"
  },
  {
   "id": "10-costo-no-responder",
@@ -84,5 +87,20 @@
   "caption": "Cuando digo \"IA para tu negocio\" casi todos piensan en ChatGPT 🤖\n\nPero lo que más resultados da en una pyme es menos glamoroso:\n1. Agentes que atienden y venden 24/7\n2. Automatizaciones que hacen solas las tareas repetitivas\n3. Análisis de datos para decidir sin planillas\n4. Marketing y contenido con tu voz, en menos tiempo\n\n¿Por cuál empezar? Depende de dónde está tu cuello de botella. Comentá EMPEZAR y te ayudo a verlo por DM 👇\n\n📅 Reservá tu diagnóstico en sumaia.byfacuiscaro.pro (link en la bio)\n\n#inteligenciaartificial #chatgpt #pymes #automatizacion #IAparanegocios",
   "status": "approved",
   "keyword": "EMPEZAR"
+ },
+ {
+  "id": "r01-cafe-con-ia",
+  "type": "reel",
+  "date": "2026-10-23T11:00:00-03:00",
+  "files": [
+   "r01-cafe-con-ia.mp4"
+  ],
+  "cover": "r01-cafe-con-ia_cover.jpg",
+  "share_to_feed": true,
+  "caption": "Café con IA en Bonafide ☕🤖\n\nDueños de negocio, una mesa y casos reales: herramientas de inteligencia artificial que se pueden usar desde mañana.\n\nSin humo, sin letra chica. Empezamos por lo que más plata te deja.\n\n¿Querés estar en el próximo? Comentá CAFÉ y te aviso 👇\n\n📅 Reservá tu diagnóstico en sumaia.byfacuiscaro.pro (link en la bio)\n\n#inteligenciaartificial #IAaplicada #emprendedores #dueñosdenegocio #pymes #SanLuis #VillaDeMerlo #SUMAIA",
+  "keyword": "CAFE",
+  "keyword_dm": "cafe",
+  "status": "approved",
+  "notes": "OK de Facu 23/10: publicar ya; él etiqueta personas a mano. Música original, no marcar IA."
  }
 ]
