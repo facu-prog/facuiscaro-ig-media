@@ -167,6 +167,86 @@
     "files": [
       "s-20261030-1-diagnostico.jpg"
     ],
+    "status": "published",
+    "media_id": "18113678417614833",
+    "permalink": "https://www.instagram.com/stories/sumamasia/4020973134856958999",
+    "published_at": "2026-11-01T15:22:56-03:00"
+  },
+  {
+    "id": "12-tareas-delegadas",
+    "type": "post",
+    "date": "2026-11-03T19:00:00-03:00",
+    "files": [
+      "12-tareas-delegadas_01.jpg",
+      "12-tareas-delegadas_02.jpg",
+      "12-tareas-delegadas_03.jpg",
+      "12-tareas-delegadas_04.jpg",
+      "12-tareas-delegadas_05.jpg",
+      "12-tareas-delegadas_06.jpg"
+    ],
+    "caption": "IA para pymes: las 7 tareas que ya no hago yo 🤖\n\nLa mayoría usa la IA para escribir textos. Yo la uso para sacarme de encima lo que se repite todas las semanas:\n1. Revisar cada hora qué anuncio gana y cuál pierde plata\n2. Responder comentarios y DMs con palabra clave\n3. Armar el contenido de redes de la semana\n4. Escribir el primer borrador de cada mail\n5. Editar reels\n6. Investigar qué anuncios le funcionan a la competencia\n7. Un informe semanal de cómo navegan mi tienda\n\nLa regla: la IA ejecuta, yo apruebo. Nada sale sin que lo mire, pero ya no arranco de cero.\n\nGuardalo para cuando lo necesites 🔖 Y si querés ver cuál te conviene delegar primero, comentá DELEGAR y te escribo por DM 👇\n\n¿Cuál de las 7 te sacarías de encima mañana?\n\n📅 Reservá tu diagnóstico en sumaia.byfacuiscaro.pro (link en la bio)\n\n#IAparapymes #automatizacion #productividad #dueñosdenegocio #inteligenciaartificial",
+    "status": "approved",
+    "keyword": "DELEGAR"
+  },
+  {
+    "id": "13-tipo-de-dueno",
+    "type": "post",
+    "date": "2026-11-05T19:00:00-03:00",
+    "files": [
+      "13-tipo-de-dueno_01.jpg",
+      "13-tipo-de-dueno_02.jpg",
+      "13-tipo-de-dueno_03.jpg",
+      "13-tipo-de-dueno_04.jpg",
+      "13-tipo-de-dueno_05.jpg",
+      "13-tipo-de-dueno_06.jpg"
+    ],
+    "caption": "Dueños de pymes: ¿qué tipo de dueño sos? 👀\n\n1. El bombero: apaga incendios todo el día\n2. El todólogo: hace todo él, porque \"nadie lo hace como yo\"\n3. El de las planillas: mil Excel y ninguno al día\n4. El coleccionista: paga varias apps y usa dos\n\nEl que más sufre es el todólogo. Su negocio crece hasta donde le dan sus horas, y si se toma vacaciones, todo se frena.\n\nMandáselo a tu socio y que confiese 😅 Y si querés el primer paso para salir del tuyo, comentá PERFIL y te escribo por DM 👇\n\n¿Cuál sos vos? Respondé con el número.\n\n📅 Reservá tu diagnóstico en sumaia.byfacuiscaro.pro (link en la bio)\n\n#pymesargentinas #dueñosdenegocio #emprendedores #automatizacion #IAparanegocios",
+    "status": "approved",
+    "keyword": "PERFIL"
+  },
+  {
+    "id": "s-20261102-1-tip",
+    "type": "story",
+    "date": "2026-11-02T10:00:00-03:00",
+    "files": [
+      "s-20261102-1-tip.jpg"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "s-20261103-1-post",
+    "type": "story",
+    "date": "2026-11-03T10:00:00-03:00",
+    "files": [
+      "s-20261103-1-post.jpg"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "s-20261104-1-pregunta",
+    "type": "story",
+    "date": "2026-11-04T10:00:00-03:00",
+    "files": [
+      "s-20261104-1-pregunta.jpg"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "s-20261105-1-post",
+    "type": "story",
+    "date": "2026-11-05T10:00:00-03:00",
+    "files": [
+      "s-20261105-1-post.jpg"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "s-20261106-1-diagnostico",
+    "type": "story",
+    "date": "2026-11-06T10:00:00-03:00",
+    "files": [
+      "s-20261106-1-diagnostico.jpg"
+    ],
     "status": "approved"
   }
 ]
