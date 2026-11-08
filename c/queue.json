@@ -265,6 +265,86 @@
     "files": [
       "s-20261106-1-diagnostico.jpg"
     ],
+    "status": "published",
+    "media_id": "18153366676615479",
+    "permalink": "https://www.instagram.com/stories/sumamasia/4025081758462874223",
+    "published_at": "2026-11-07T07:26:01-03:00"
+  },
+  {
+    "id": "14-errores-chatgpt",
+    "type": "post",
+    "date": "2026-11-10T19:00:00-03:00",
+    "files": [
+      "14-errores-chatgpt_01.jpg",
+      "14-errores-chatgpt_02.jpg",
+      "14-errores-chatgpt_03.jpg",
+      "14-errores-chatgpt_04.jpg",
+      "14-errores-chatgpt_05.jpg",
+      "14-errores-chatgpt_06.jpg"
+    ],
+    "caption": "ChatGPT para negocios: 5 errores que te hacen perder tiempo (y cómo corregirlos) 🤖\n\nLa mayoría lo usa como si fuera Google. Pregunta corta, respuesta genérica y al rato: \"esto no sirve\".\n\nEl problema no es la herramienta. Es cómo le pedís.\n\n1. Pedirle sin contexto\n2. Quedarte con la primera respuesta\n3. Pegar datos de clientes sin pensar\n4. Creerle todo\n5. Usar el chat para lo que se repite todos los días\n\nGuardalo 🔖 y mandáselo a quien todavía lo usa como buscador.\n\nSi querés ver cómo usarlo bien en tu negocio, comentá CHATGPT y te escribo por DM 👇\n\n¿Cuál de los 5 cometías? Respondé con el número.\n\n📅 Reservá tu diagnóstico en sumaia.byfacuiscaro.pro (link en la bio)\n\n#chatgptparanegocios #IAparapymes #dueñosdenegocio #pymesargentinas #productividad",
+    "keyword": "CHATGPT",
+    "status": "approved"
+  },
+  {
+    "id": "15-dia-de-un-dueno",
+    "type": "post",
+    "date": "2026-11-12T19:00:00-03:00",
+    "files": [
+      "15-dia-de-un-dueno_01.jpg",
+      "15-dia-de-un-dueno_02.jpg",
+      "15-dia-de-un-dueno_03.jpg",
+      "15-dia-de-un-dueno_04.jpg",
+      "15-dia-de-un-dueno_05.jpg",
+      "15-dia-de-un-dueno_06.jpg"
+    ],
+    "caption": "Automatizar tu negocio no es trabajar menos: es dejar de hacer lo repetitivo ⚙️\n\nMismo dueño, mismo martes. Dos días muy distintos.\n\nSin sistemas: WhatsApp desde la cama, Excel para ver el stock, cobros que perseguís y presupuestos que se enfrían.\n\nCon sistemas: un resumen a la mañana, un agente que respondió las consultas de la noche y recordatorios que salen solos. Vos, en lo que importa.\n\n(Horarios de ejemplo, pero seguro te suenan 😅)\n\nMandáselo a ese amigo que vive en el día 1. Y si querés saber qué sistema te conviene armar primero, comentá SISTEMA y te escribo por DM 👇\n\n¿Tu día se parece más al 1 o al 2?\n\n📅 Reservá tu diagnóstico en sumaia.byfacuiscaro.pro (link en la bio)\n\n#automatizacion #IAparapymes #dueñosdenegocio #pymesargentinas #emprendedoresargentinos",
+    "keyword": "SISTEMA",
+    "status": "approved"
+  },
+  {
+    "id": "s-20261109-1-tip",
+    "type": "story",
+    "date": "2026-11-09T10:00:00-03:00",
+    "files": [
+      "s-20261109-1-tip.jpg"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "s-20261110-1-post",
+    "type": "story",
+    "date": "2026-11-10T10:00:00-03:00",
+    "files": [
+      "s-20261110-1-post.jpg"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "s-20261111-1-pregunta",
+    "type": "story",
+    "date": "2026-11-11T10:00:00-03:00",
+    "files": [
+      "s-20261111-1-pregunta.jpg"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "s-20261112-1-post",
+    "type": "story",
+    "date": "2026-11-12T10:00:00-03:00",
+    "files": [
+      "s-20261112-1-post.jpg"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "s-20261113-1-diagnostico",
+    "type": "story",
+    "date": "2026-11-13T10:00:00-03:00",
+    "files": [
+      "s-20261113-1-diagnostico.jpg"
+    ],
     "status": "approved"
   }
 ]
