@@ -363,6 +363,85 @@
     "files": [
       "s-20261113-1-diagnostico.jpg"
     ],
+    "status": "error",
+    "error": "13/11 10:1x: Composio caído (COMPOSIO_SEARCH_TOOLS y REMOTE_WORKBENCH devuelven \"Tool execution failed\"/\"connector server error\"). No se pudo confirmar si el intento quedó publicado: chequear historias de @facuiscaro.pro antes de reencolar."
+  },
+  {
+    "id": "s-20261116-1-tip",
+    "type": "story",
+    "date": "2026-11-16T10:00:00-03:00",
+    "files": [
+      "s-20261116-1-tip.jpg"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "s-20261117-1-post",
+    "type": "story",
+    "date": "2026-11-17T10:00:00-03:00",
+    "files": [
+      "s-20261117-1-post.jpg"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "16-prompts-pymes",
+    "type": "post",
+    "date": "2026-11-17T19:00:00-03:00",
+    "files": [
+      "16-prompts-pymes_01.jpg",
+      "16-prompts-pymes_02.jpg",
+      "16-prompts-pymes_03.jpg",
+      "16-prompts-pymes_04.jpg",
+      "16-prompts-pymes_05.jpg",
+      "16-prompts-pymes_06.jpg"
+    ],
+    "caption": "Prompts de IA para pymes: 10 para copiar y pegar hoy 🤖\n\nLe pedís a ChatGPT \"escribime un post\" y te devuelve algo que podría ser de cualquiera.\n\nEl truco: arrancá cada chat con 2 líneas. Qué vendés, a quién y con qué tono. Después pegá cualquiera de estos 10.\n\n✅ Ventas: seguimiento de presupuestos, objeciones y descripciones.\n✅ Clientes: preguntas frecuentes, reclamos y reseñas.\n✅ Gestión: ventas del mes, prioridades, procesos y contenido.\n\nSirven en ChatGPT, Claude o Gemini. Guardalo 🔖 para tenerlo a mano.\n\nSi querés adaptarlos a tu negocio, comentá PROMPTS y te escribo por DM 👇\n\n¿Cuál vas a probar primero? Respondé con el número.\n\n📅 Reservá tu diagnóstico en sumaia.byfacuiscaro.pro (link en la bio)\n\n#promptsIA #chatgptparanegocios #IAparapymes #dueñosdenegocio #productividad",
+    "keyword": "PROMPTS",
+    "status": "approved"
+  },
+  {
+    "id": "s-20261118-1-pregunta",
+    "type": "story",
+    "date": "2026-11-18T10:00:00-03:00",
+    "files": [
+      "s-20261118-1-pregunta.jpg"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "s-20261119-1-post",
+    "type": "story",
+    "date": "2026-11-19T10:00:00-03:00",
+    "files": [
+      "s-20261119-1-post.jpg"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "17-contratar-o-automatizar",
+    "type": "post",
+    "date": "2026-11-19T19:00:00-03:00",
+    "files": [
+      "17-contratar-o-automatizar_01.jpg",
+      "17-contratar-o-automatizar_02.jpg",
+      "17-contratar-o-automatizar_03.jpg",
+      "17-contratar-o-automatizar_04.jpg",
+      "17-contratar-o-automatizar_05.jpg",
+      "17-contratar-o-automatizar_06.jpg"
+    ],
+    "caption": "Automatizar tu negocio o contratar a alguien: 5 preguntas para decidir 🤔\n\nContratar para tapar un proceso roto es caro. La persona nueva hereda el desorden.\n\nAntes de decidir, respondé esto:\n\n1. ¿Se repite igual cada vez?\n2. ¿Necesita criterio o empatía?\n3. ¿Lo podés escribir paso a paso?\n4. ¿Cuántas veces pasa?\n5. ¿Qué pasa si sale mal?\n\nCasi siempre la respuesta es las dos cosas, en ese orden: primero automatizás lo repetitivo y después contratás para lo que necesita una persona.\n\nCada martes y jueves comparto cosas así. Seguime para no perderte la próxima.\n\nSi tenés una tarea que te hace dudar, comentá CONTRATAR y te escribo por DM 👇\n\n¿Vos qué estás por hacer: contratar o automatizar?\n\n📅 Reservá tu diagnóstico en sumaia.byfacuiscaro.pro (link en la bio)\n\n#automatizacion #IAparapymes #dueñosdenegocio #pymesargentinas #emprendedoresargentinos",
+    "keyword": "CONTRATAR",
+    "status": "approved",
+    "notes": "Reemplazo educativo del tema 17 (historia personal De $0 a USD 1M): Facu no confirmó datos. El 17 original queda pendiente."
+  },
+  {
+    "id": "s-20261120-1-diagnostico",
+    "type": "story",
+    "date": "2026-11-20T10:00:00-03:00",
+    "files": [
+      "s-20261120-1-diagnostico.jpg"
+    ],
     "status": "approved"
   }
 ]
