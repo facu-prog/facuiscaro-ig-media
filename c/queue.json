@@ -460,6 +460,88 @@
     "files": [
       "s-20261120-1-diagnostico.jpg"
     ],
+    "status": "published",
+    "media_id": "18149832139602503",
+    "permalink": "https://www.instagram.com/stories/sumamasia/4034586074446661160",
+    "published_at": "2026-11-20T10:09:25-03:00"
+  },
+  {
+    "id": "s-20261123-1-tip",
+    "type": "story",
+    "date": "2026-11-23T10:00:00-03:00",
+    "files": [
+      "s-20261123-1-tip.jpg"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "s-20261124-1-post",
+    "type": "story",
+    "date": "2026-11-24T10:00:00-03:00",
+    "files": [
+      "s-20261124-1-post.jpg"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "18-mitos-ia-pymes",
+    "type": "post",
+    "date": "2026-11-24T19:00:00-03:00",
+    "files": [
+      "18-mitos-ia-pymes_01.jpg",
+      "18-mitos-ia-pymes_02.jpg",
+      "18-mitos-ia-pymes_03.jpg",
+      "18-mitos-ia-pymes_04.jpg",
+      "18-mitos-ia-pymes_05.jpg",
+      "18-mitos-ia-pymes_06.jpg"
+    ],
+    "caption": "IA para pymes: ¿verdadero o falso? 6 frases que escucho seguido 🤔\n\nRespondé antes de deslizar. Anotá V o F en cada una:\n\n1. La IA es solo para empresas grandes.\n2. Te va a reemplazar a vos o a tu equipo.\n3. Para usarla hay que saber programar.\n4. Lo que pegás en un chat puede quedar guardado.\n5. La IA nunca se equivoca.\n6. Automatizar un proceso desordenado lo arregla.\n\nLas respuestas están en el carrusel. Ojo con la 6: es la más cara.\n\nContame en los comentarios cuántas acertaste. Y si querés ver qué conviene automatizar en tu negocio, comentá MITOS y te escribo por DM 👇\n\n¿Cuál te sorprendió más?\n\n📅 Reservá tu diagnóstico en sumaia.byfacuiscaro.pro (link en la bio)\n\n#IAparapymes #inteligenciaartificial #automatizacion #pymesargentinas #dueñosdenegocio",
+    "keyword": "MITOS",
+    "status": "approved",
+    "notes": "Tema 18 del calendario · cream · mecánica comentar"
+  },
+  {
+    "id": "s-20261125-1-pregunta",
+    "type": "story",
+    "date": "2026-11-25T10:00:00-03:00",
+    "files": [
+      "s-20261125-1-pregunta.jpg"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "s-20261126-1-post",
+    "type": "story",
+    "date": "2026-11-26T10:00:00-03:00",
+    "files": [
+      "s-20261126-1-post.jpg"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "19-herramientas-ia-gratis",
+    "type": "post",
+    "date": "2026-11-26T19:00:00-03:00",
+    "files": [
+      "19-herramientas-ia-gratis_01.jpg",
+      "19-herramientas-ia-gratis_02.jpg",
+      "19-herramientas-ia-gratis_03.jpg",
+      "19-herramientas-ia-gratis_04.jpg",
+      "19-herramientas-ia-gratis_05.jpg",
+      "19-herramientas-ia-gratis_06.jpg"
+    ],
+    "caption": "Herramientas de IA gratis para tu negocio: las 6 que usaría si arrancara hoy 🛠️\n\nNo hace falta pagar una app para empezar. Todas estas tienen versión gratuita:\n\n1. Un chat de IA (ChatGPT, Claude o Gemini)\n2. NotebookLM, para preguntarle a tus propios documentos\n3. Perplexity, para investigar con fuentes\n4. Canva, para placas y presentaciones\n5. Make o Zapier, para conectar tus apps\n6. WhatsApp Business, para respuestas rápidas y mensajes automáticos\n\nEl truco no es usarlas todas. Es elegir la tarea que más tiempo te roba y empezar por una.\n\nOjo: los planes gratis cambian seguido. Revisá los límites antes de armar algo importante.\n\nGuardalo 🔖 para cuando lo necesites. Y si no sabés por cuál empezar, comentá GRATIS y te escribo por DM 👇\n\n¿Cuál de las 6 ya usás?\n\n📅 Reservá tu diagnóstico en sumaia.byfacuiscaro.pro (link en la bio)\n\n#herramientasIA #IAparapymes #automatizacion #productividad #emprendedoresargentinos",
+    "keyword": "GRATIS",
+    "status": "approved",
+    "notes": "Tema 19 del calendario · dark · mecánica guardar/compartir"
+  },
+  {
+    "id": "s-20261127-1-diagnostico",
+    "type": "story",
+    "date": "2026-11-27T10:00:00-03:00",
+    "files": [
+      "s-20261127-1-diagnostico.jpg"
+    ],
     "status": "approved"
   }
 ]
